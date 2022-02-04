@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 04 Feb 2022 03:00:32 at http://23hrtowing.co.za/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://23hrtowing.co.za/ -O1 "C:\My Web Sites\23" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:01:47	Error: 	"Method Not Allowed" (405) at link 23hrtowing.co.za/xmlrpc.php (from 23hrtowing.co.za/)
+03:01:47	Error: 	"Not Found" (404) at link 23hrtowing.co.za/wp-content/uploads/avia_fonts/medical/medical.woff2 (from 23hrtowing.co.za/)
+03:05:48	Warning: 	Link 23hrtowing.co.za/?s= not scanned (follow robots meta tag)
+03:05:48	Error: 	"Forbidden" (403) at link 23hrtowing.co.za/wp-content/uploads/2018/10/VID-20181011-WA0024.mp4 (from 23hrtowing.co.za/)
+03:06:03	Error: 	"Bad Request" (400) at link 23hrtowing.co.za/wp-admin/admin-ajax.php (from 23hrtowing.co.za/)
+03:06:03	Warning: 	Moved Permanently for 23hrtowing.co.za/?p=952
+03:06:03	Warning: 	File has moved from 23hrtowing.co.za/?p=952 to http://23hrtowing.co.za/services/
+03:06:03	Warning: 	Moved Permanently for 23hrtowing.co.za/?p=954
+03:06:03	Warning: 	File has moved from 23hrtowing.co.za/?p=954 to http://23hrtowing.co.za/contact/
+03:06:04	Warning: 	Moved Permanently for 23hrtowing.co.za/?p=961
+03:06:04	Warning: 	File has moved from 23hrtowing.co.za/?p=961 to http://23hrtowing.co.za/our-fleet/
+03:06:48	Warning: 	Retry after error 500 (Internal Server Error) at link 23hrtowing.co.za/wp-content/themes/enfold/framework/avia_framework.php (from 23hrtowing.co.za/wp-content/themes/enfold/framework/)
+03:06:48	Error: 	"Forbidden" (403) at link 23hrtowing.co.za/wp-content/themes/enfold/framework/error_log (from 23hrtowing.co.za/wp-content/themes/enfold/framework/)
+03:08:18	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 23hrtowing.co.za/wp-content/themes/enfold/framework/php/auto-updates/auto-updates.php
+03:08:33	Warning: 	Retry after error 500 (Internal Server Error) at link 23hrtowing.co.za/wp-content/themes/enfold/framework/php/class-tgm-plugin-activation.php (from 23hrtowing.co.za/wp-content/themes/enfold/framework/php/)
+03:08:33	Error: 	"Forbidden" (403) at link 23hrtowing.co.za/wp-content/themes/enfold/framework/php/error_log (from 23hrtowing.co.za/wp-content/themes/enfold/framework/php/)
+03:08:33	Warning: 	Retry after error 500 (Internal Server Error) at link 23hrtowing.co.za/wp-content/themes/enfold/framework/php/inc-autoconfig.php (from 23hrtowing.co.za/wp-content/themes/enfold/framework/php/)
+03:08:33	Warning: 	Retry after error 500 (Internal Server Error) at link 23hrtowing.co.za/wp-content/themes/enfold/framework/php/inc-avia-importer.php (from 23hrtowing.co.za/wp-content/themes/enfold/framework/php/)
+03:08:33	Warning: 	Retry after error 500 (Internal Server Error) at link 23hrtowing.co.za/wp-content/themes/enfold/framework/avia_framework.php (from 23hrtowing.co.za/wp-content/themes/enfold/framework/)
+03:08:57	Error: 	"Not Found" (404) at link 23hrtowing.co.za/wp-content/themes/enfold/framework/images/layout/find_api.jpg (from 23hrtowing.co.za/wp-content/themes/enfold/framework/images/layout/)
+03:09:32	Warning: 	Retry after error 500 (Internal Server Error) at link 23hrtowing.co.za/wp-content/themes/enfold/framework/php/class-tgm-plugin-activation.php (from 23hrtowing.co.za/wp-content/themes/enfold/framework/php/)
+03:09:32	Warning: 	Retry after error 500 (Internal Server Error) at link 23hrtowing.co.za/wp-content/themes/enfold/framework/php/inc-autoconfig.php (from 23hrtowing.co.za/wp-content/themes/enfold/framework/php/)
+03:09:33	Warning: 	Retry after error 500 (Internal Server Error) at link 23hrtowing.co.za/wp-content/themes/enfold/framework/php/inc-avia-importer.php (from 23hrtowing.co.za/wp-content/themes/enfold/framework/php/)
+03:09:33	Error: 	"Internal Server Error" (500) after 2 retries at link 23hrtowing.co.za/wp-content/themes/enfold/framework/avia_framework.php (from 23hrtowing.co.za/wp-content/themes/enfold/framework/)
+03:09:46	Error: 	"Internal Server Error" (500) after 2 retries at link 23hrtowing.co.za/wp-content/themes/enfold/framework/php/class-tgm-plugin-activation.php (from 23hrtowing.co.za/wp-content/themes/enfold/framework/php/)
+03:09:46	Error: 	"Internal Server Error" (500) after 2 retries at link 23hrtowing.co.za/wp-content/themes/enfold/framework/php/inc-autoconfig.php (from 23hrtowing.co.za/wp-content/themes/enfold/framework/php/)
+03:09:46	Error: 	"Internal Server Error" (500) after 2 retries at link 23hrtowing.co.za/wp-content/themes/enfold/framework/php/inc-avia-importer.php (from 23hrtowing.co.za/wp-content/themes/enfold/framework/php/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 16 seconds : 465 links scanned, 442 files written (10124364 bytes overall) [8504809 bytes received at 15296 bytes/sec], 2513827 bytes transferred using HTTP compression in 270 files, ratio 27%, 5.2 requests per connection
+(11 errors, 16 warnings, 0 messages)
